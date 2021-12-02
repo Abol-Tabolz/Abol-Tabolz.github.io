@@ -1,12 +1,13 @@
-# aboltabolzwebsite
-The personal website of aboltabolz
+# AbolTabolzWEB
+The Website Of Team AbolTabolz coded in HTML,CSS,JS.
 
-# This project is made with the collaboration of:
+# This Project is made with the help and collaboration of:
 
 - [Senpai Legend](https://github.com/legendlife)
   
 - [etacre](https://github.com/etacre)
 
-- [idk whoim](https://github.com/idk-whoim)
+- [TonmoyPlaysMC](https://github.com/idk-whoim)
   
-# This project is licensed under the [MIT](LICENSE) 
+# This project is licensed under the [MIT](LICENSE)
+ 
