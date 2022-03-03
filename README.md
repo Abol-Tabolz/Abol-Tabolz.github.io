@@ -6,6 +6,8 @@ The Website Of Team AbolTabolz coded in HTML,CSS,JS.
  
 - [TonmoyPlaysMC](https://github.com/ik-whoim)
 
+- [etacre](https://github.com/etacre)
+
 - [sensieofvenom](https://github.com/legendlife)
   
 # This project is licensed under the [MIT](LICENSE)
